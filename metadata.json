@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eklavya Royal Library",
+  "description": "A premium digital ecosystem blending Indian mythological dedication with modern AI-powered education and a luxurious digital library experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
